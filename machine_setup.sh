@@ -71,7 +71,7 @@ conda install -y numpy
 conda install -y tqdm
 conda install -y matplotlib
 conda install -y seaborn
-conda install -y scipy --force
+conda install -y scipy
 conda install -y scikit-learn
 conda install -y scikit-image
 conda install -y pillow
